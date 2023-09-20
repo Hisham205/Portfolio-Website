@@ -381,6 +381,8 @@ section .title::after{
 /* contact section styling */
 .contact
 {
+    padding-top: 10px ;
+    padding-bottom: 36px ;
     background-color: #111;
 }
 .contact .title
@@ -390,6 +392,11 @@ section .title::after{
 .contact div
 {
  text-align: center;
+
+}
+.contact div img
+{
+    width: 200px;
 }
 .contact a
 {
